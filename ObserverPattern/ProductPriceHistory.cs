@@ -21,10 +21,10 @@
                 _histories.Add(product.Name, new List<PriceHistory> { priceHistory });
             }
 
-            ChechPriceTrend(product.Name);
+            CheckPriceTrend(product.Name);
         }
 
-        private void ChechPriceTrend(string productName)
+        private void CheckPriceTrend(string productName)
         {
             var priceHistoryList = _histories[productName];
 
