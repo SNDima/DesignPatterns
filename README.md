@@ -10,4 +10,4 @@ Observer is a behavioral design pattern that lets you define a subscription mech
 The example describes the marketplace where a user can see some products and subscribe to their price updates.
 Another observer (or subscriber) is a product price history class which stores the values of the product price and the date of change.
 
-![image](https://github.com/SNDima/DesignPatterns/assets/11736815/1548e41d-1b84-43f9-a262-be3628a71418)
+![Observer pattern](https://github.com/SNDima/DesignPatterns/assets/11736815/7877f8c0-a5ae-4e3c-a43b-18173a957e76)
