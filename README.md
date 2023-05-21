@@ -19,3 +19,11 @@ Strategy is a behavioral design pattern that lets you define a family of algorit
 The example describes a payment system which allows a user to pay by card, PayPal or with Cryptocurrency and get check if required.
 
 ![Strategy pattern](https://github.com/SNDima/DesignPatterns/assets/11736815/8a513af2-fa41-4422-aaec-7d427ad00a56)
+
+## Decorator pattern
+
+Decorator is a structural design pattern that lets you attach new behaviors to objects by placing these objects inside special wrapper objects that contain the behaviors.
+
+The example represents a shawarma order application which allows a user to choose a shawarma of differnt types (chicken, pork and beef) and add some more ingredients like cheese, mushrooms, potato and tomato.
+
+![Decorator pattern ](https://github.com/SNDima/DesignPatterns/assets/11736815/d07d6a3c-99ac-4d3a-aa47-b0f634bc4fce)
